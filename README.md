@@ -1,82 +1,198 @@
-# 📊 Interactive Sales Dashboard — Tableau
+# 📊 Retail Sales Analysis & Interactive Tableau Dashboards
 
-## Project Overview
+## 📌 Project Overview
 
-An interactive Sales Dashboard developed using Tableau to analyze sales, profit, orders, customer performance, product performance, and state-wise sales across India.
+An interactive Retail Sales Analytics project developed using **Tableau** to analyze sales performance, customer behavior, product performance, profitability, regional performance, and state-wise sales across India.
+
+The project contains **two interactive dashboards** designed to provide business-focused insights through KPIs, charts, filters, and geographical visualization.
+
+---
 
 ## 🎯 Project Objectives
 
-- Analyze overall sales and profit performance
-- Monitor total orders and profit margin
-- Identify top-performing products and customers
-- Analyze sales by category
-- Analyze state-wise profit
+- Analyze overall retail sales performance
+- Monitor total sales, profit, units sold, and orders
+- Identify new and existing customers
+- Identify top-performing products
+- Analyze sales by customer type and gender
+- Analyze sales by age group and payment mode
 - Track monthly sales trends
-- Visualize sales across Indian states
-- Enable interactive business analysis
+- Analyze category-wise and region-wise sales
+- Visualize state-wise sales across India
+- Support data-driven business decision making
 
-## 🛠️ Tools Used
+---
+
+# 📊 Dashboard 1 — Customer & Product Analysis
+
+### Key Features
+
+- New Customer Analysis
+- Existing Customer Analysis
+- Top Product
+- Top Region
+- Top 10 Products
+- Sales by Customer Type
+- Sales by Gender
+- Sales by Age Group
+- Sales by Payment Mode
+
+### Key Results
+
+| Metric | Result |
+|---|---:|
+| New Customers | 1,845 |
+| Existing Customers | 3,155 |
+| Top Product | Laptop |
+| Top Product Sales | ₹29.92M |
+| Top Region | West |
+| West Region Sales | ₹38.29M |
+
+### Dashboard Preview
+
+![Customer & Product Analysis Dashboard](Dashboard_Customer_&_Product_Analysis.png)
+
+---
+
+# 📈 Dashboard 2 — Retail Sales Performance
+
+### Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Sales | ₹91.02M |
+| Total Profit | ₹19.97M |
+| Units Sold | 10,261 |
+| Total Orders | 5,000 |
+
+### Dashboard Features
+
+- Total Sales KPI
+- Total Profit KPI
+- Units Sold KPI
+- Total Orders KPI
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Region
+- Top 10 Products
+- Sales by State Map
+- Interactive State Filter
+
+### Dashboard Preview
+
+![Retail Sales Performance Dashboard](Dashboard_Retail_Sales_Performance.png)
+
+---
+
+## 🏆 Top 10 Products
+
+Sales performance was analyzed to identify the highest-performing products.
+
+1. Laptop
+2. Mobile
+3. Sofa
+4. Tablet
+5. Desk
+6. Office Chair
+7. Table
+8. Bookshelf
+9. Smart Watch
+10. Jacket
+
+---
+
+## 🌍 Regional Sales Analysis
+
+The dashboard provides a comparison of sales across four major regions:
+
+- West
+- South
+- North
+- East
+
+The **West region** is the highest-performing region based on sales.
+
+---
+
+## 🗺️ State-wise Sales Analysis
+
+An interactive India map was created to visualize sales performance across different states.
+
+This helps identify:
+
+- High-performing states
+- Low-performing states
+- Regional sales distribution
+- Geographic sales opportunities
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Tableau
 - Microsoft Excel
 - Data Visualization
 - Business Intelligence
+- Dashboard Development
+- KPI Analysis
+- Data Analysis
 
-## 📌 Dashboard Features
+---
 
-- KPI Cards
-- Monthly Sales Trend
-- Sales by Category
-- Top 10 Products
-- Top 10 Customers
-- Profit by State
-- India Sales Map
-- Year Filter
-- Category Filter
-- Region Filter
-- Dashboard Actions
+## 📊 Analytical Skills Demonstrated
 
-## 📊 Key KPIs
+- Data Cleaning
+- Data Analysis
+- KPI Development
+- Interactive Dashboard Design
+- Sales Analysis
+- Customer Segmentation
+- Product Analysis
+- Geographic Analysis
+- Trend Analysis
+- Business Insights
 
-| KPI | Value |
-|---|---:|
-| Total Sales | ₹127M |
-| Total Profit | ₹18.12M |
-| Total Orders | 3,000 |
-| Profit Margin | 14.29% |
-
-## 🖼️ Dashboard Preview
-
-![Interactive Sales Dashboard](Interactive_Sales_Dashboard.png)
+---
 
 ## 🔗 Tableau Public
 
-View the interactive dashboard:
+View the interactive dashboards on Tableau Public:
 
-[View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/views/Project_INDIAN_STORE/InteractiveSalesDashboard?:showVizHome=no)
+[View Retail Sales Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/vaibhav.kamble7351/viz/Final_Project_Retail_Sales_Data/DASHBOARD_RETAIL_SALES_PERFORMANCE)
 
-## 📈 Business Insights
-
-The dashboard helps identify:
-
-1. Overall sales performance
-2. Overall profitability
-3. Monthly sales trends
-4. Category-wise sales contribution
-5. Top-performing products
-6. Top customers by sales
-7. State-wise profit performance
-8. Low-profit or loss-making states
-9. Regional sales distribution
-10. Key areas for business decision-making
+---
 
 ## 📂 Project Files
 
-- `Interactive_Sales_Dashboard.twbx` — Tableau packaged workbook
-- `Interactive_Sales_Dashboard.png` — Dashboard screenshot
+- `Retail_Sales_Analysis_Dashboard.twbx` — Tableau packaged workbook
+- `Dashboard_Customer_&_Product_Analysis.png` — Customer & Product Analysis dashboard
+- `Dashboard_Retail_Sales_Performance.png` — Retail Sales Performance dashboard
+
+---
+
+## 💡 Business Insights
+
+This project provides insights into:
+
+1. Overall sales and profitability
+2. New vs existing customer contribution
+3. Top-performing products
+4. Regional sales performance
+5. Category-wise sales contribution
+6. Customer gender analysis
+7. Age-group sales behavior
+8. Payment mode preferences
+9. Monthly sales trends
+10. State-wise sales distribution
+
+---
 
 ## 👨‍💻 Author
 
 **Vaibhav Kamble**
 
 Data Analytics | Tableau | Power BI | Excel | SQL
+
+---
+
+⭐ If you find this project useful, feel free to explore the dashboard and provide feedback.
